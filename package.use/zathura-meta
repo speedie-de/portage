@@ -1,0 +1,6 @@
+app-text/zathura-meta pdf
+# required by app-text/zathura-pdf-poppler-0.3.0::gentoo
+# required by app-text/zathura-meta-0::gentoo[pdf]
+# required by @selected
+# required by @world (argument)
+>=app-text/poppler-22.03.0 cairo
